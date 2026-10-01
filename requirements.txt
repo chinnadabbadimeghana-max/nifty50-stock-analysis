@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+matplotlib
+streamlit
